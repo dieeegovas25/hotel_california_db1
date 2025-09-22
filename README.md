@@ -1,7 +1,3 @@
-Perfecto 🙌 Te preparo un **README.md** inicial para tu proyecto del **Sistema de Gestión Hotelera (Hotel California)**. Incluye: descripción, requisitos, instalación, ejecución, base de datos y control de versiones.
-
----
-
 # 📌 README.md – Hotel California
 
 ## 🏨 Hotel California – Sistema de Gestión Hotelera
